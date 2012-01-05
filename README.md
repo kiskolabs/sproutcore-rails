@@ -31,3 +31,11 @@ e.g create `app/assets/javascripts/templates/all.js` with:
 Now a single line in the layout loads everything:
 
     <%= javascript_include_tag "templates/all" %>
+
+
+License and Copyright
+---------------------
+
+Copyright (C) 2012 Kisko Labs Oy
+
+Licensed under the MIT License. See the LICENSE file for details.
